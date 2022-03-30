@@ -6,7 +6,7 @@
   <h5> A passionate Fullstack developer </h5>
   
 - ⚡  I love crossfit, kitchen and football. 
-- 📫  How to reach me: **omar.castillo1095@gmail.com** or use the badges 
+- 📫  How to reach me: **omar.castillo1095@gmail.com**, **https://omarcastillo-portfolio.web.app/** or use the badges 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
