@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Omarjcp/Omarjcp/blob/main/devcard.svg" width="400" alt="Omar Castillo's Dev Card"/></a>
+   <a href="https://app.daily.dev/omarcastillo"><img src="https://github.com/Omarjcp/Omarjcp/blob/main/devcard.svg" width="400" alt="Omar Castillo's Dev Card"/></a>
 </p>
 
  <h2>Hello👋 I'm Omar! </h2>
